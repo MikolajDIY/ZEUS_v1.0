@@ -1,4 +1,4 @@
-napiêcie zmierzone,napiêcie rzeczywiste
+voltage measured ,voltage real
 "2,3","2,1"
 "3,1","2,85"
 "3,7","3,59"
@@ -26,3 +26,4 @@ napiêcie zmierzone,napiêcie rzeczywiste
 "18,2","17,62"
 "18,8","18,26"
 "19,1","18,49"
+
