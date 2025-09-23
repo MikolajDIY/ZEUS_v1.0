@@ -69,7 +69,7 @@ Better temperature sensor placement
 
 
 ## Schematic
-![ZEUS v1.0 schematic](schematics/ZEUS1v0_schematic1.svg)
+![ZEUS v1.0 schematic](schematics/ZEUS1v0_schematic.svg)
 
 ##Code
 ![main firmware (Arduino/C++ for Raspberry Pi Pico)](code/ZEUS1v0.ino)
