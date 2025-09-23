@@ -67,17 +67,27 @@ Better temperature sensor placement
 
 📂 Repository Contents
 
-ZEUS1v0.ino – main firmware (Arduino/C++ for Raspberry Pi Pico)
 
-schematics/ – circuit diagrams (PDF + images)
+## Schematic
+![ZEUS v1.0 schematic](schematics/ZEUS1V0_schematic.svg)
 
-hardware/ – PCB photos & layouts
-
-docs/ – project documentation (BOM, calibration CSV, notes)
+##Code
+![main firmware (Arduino/C++ for Raspberry Pi Pico)](code/ZEUS1v0.ino)
 
 📸 Photos
 
-(Add your photos here – front, back, PCB, inside view, etc.)
+## Photos
+![Front view](photos/front_view_2,0V.jpg)
+![Front view](photos/front_view_18,1V.jpg)
+![Top view](photos/top_view.jpg)
+![Back_view](photos/back_view.jpg)
+![PCB_view](photos/pcb_view.jpg)
+![Voltage/Current_measure_PCB](voltage_current_pcb.jpg)
+
+##Docs
+![Calibration_fille](docs/ZEUS_Kalibracja.csv)
+
+
 
 📝 License
 
