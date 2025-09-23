@@ -86,7 +86,7 @@ Better temperature sensor placement
 ![Voltage/Current_measure_PCB](photos/voltage_current_pcb.jpg)
 
 ##Docs
-![Calibration_fille](docs/ZEUS_kalibracja.csv)
+![Calibration_fille](docs/ZEUS_calibration.csv)
 
 
 
