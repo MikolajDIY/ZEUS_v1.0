@@ -80,6 +80,7 @@ Better temperature sensor placement
 ![Front view](photos/front_view_2,0V.jpg)
 ![Front view](photos/front_view_18,1V.jpg)
 ![Top view](photos/top_view.jpg)
+![Overcurrent](photos/overcurrent.jpg)
 ![Back_view](photos/back_view.jpg)
 ![PCB_view](photos/pcb_view.jpg)
 ![Voltage/Current_measure_PCB](photos/voltage_current_pcb.jpg)
