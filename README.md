@@ -21,7 +21,7 @@ Measurement accuracy:
 
 Voltage: ±0.1 V (3rd order polynomial calibration)
 
-Current: ±0.01 A (sometimes ±0.05 A at >1 A)
+Current: ±0.02 A (max ±0.05 A at high load)
 
 ⚙️ Measurement & Power Stage
 
@@ -47,7 +47,7 @@ Stable temps at up to 3 A load
 
 Temperature sensor placed near Vout trace showed 15–20 °C lower values → great lesson about switching noise & thermal gradients.
 
-Voltage/current readings "float" ±0.1 V / ±0.01 A → acceptable for DIY, but next version will use a better ADC.
+Voltage/current readings "float" ±0.1 V / ±0.02 A → acceptable for DIY, but next version will use a better ADC.
 
 Star-ground topology really improved measurement stability.
 
