@@ -82,10 +82,10 @@ Better temperature sensor placement
 ![Top view](photos/top_view.jpg)
 ![Back_view](photos/back_view.jpg)
 ![PCB_view](photos/pcb_view.jpg)
-![Voltage/Current_measure_PCB](voltage_current_pcb.jpg)
+![Voltage/Current_measure_PCB](photos/voltage_current_pcb.jpg)
 
 ##Docs
-![Calibration_fille](docs/ZEUS_Kalibracja.csv)
+![Calibration_fille](docs/ZEUS_kalibracja.csv)
 
 
 
