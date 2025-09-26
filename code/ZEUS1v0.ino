@@ -179,7 +179,7 @@ void setup() {
   adc_init();
   adc_gpio_init(26+ADC_VOLTAGE);
   adc_gpio_init(26+ADC_CURRENT);
-  adc_gpio_init(28+ADC_TEMP);
+  adc_gpio_init(26+ADC_TEMP);
 }
 
 // --- loop ---
