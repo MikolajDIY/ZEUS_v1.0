@@ -31,3 +31,5 @@
 "U6","1","RT9164A-33PG","","","","","https://www.alldatasheet.com/datasheet-pdf/view/207914/RICHTEK/RT9164A-33PG.html"
 "U7","1","TMP36GT9Z","","","","","https://eu.mouser.com/datasheet/3/1014/1/TMP35_36_37.pdf"
 "TFT","1","ST7735 1.8 (128×160) SPI","","","","TFT_ST7735_1.8in_3V3","https://cdn-shop.adafruit.com/datasheets/ST7735.pdf"
+"-","1","DC_Jack_port","","","","","~"
+"-","1","Switch_230V","","","","","~"
